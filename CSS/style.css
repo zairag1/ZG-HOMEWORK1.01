@@ -1,0 +1,62 @@
+body {
+    background-color: cornsilk;
+    text-align: center;
+}
+
+img {
+    border: 15px double gold;
+    width: 500px;
+    height: 500px;
+}
+
+.name{
+    color: DarkGreen;
+    font-family: "Brush Script MT";
+    font-size: 60px
+}
+
+.major{
+    color: mediumseagreen;
+    font-family: "monaco";
+}
+
+.description{
+    font-family: "courier new";
+    font-size: 20px;
+    color: darkgreen;
+}
+
+.hobbies{
+    font-size: 20px;
+    color: DarkGoldenRod;
+    font-family:"monaco";
+    text-decoration: underline;
+}
+
+.entertainment{
+    font-size: 20px;
+    color: DarkGoldenRod;
+    font-family: "monaco";
+    text-decoration: underline;
+}
+
+.list{
+    font-size: 20px;
+    font-family:"courier new";
+    color: olive;
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+button{
+    border: 6px double gold;
+    width: 300px;
+    background-color: papayawhip;
+    color: darkgreen;
+    font-size: 17px;
+    font-family:"monaco";
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 8px;
+}
